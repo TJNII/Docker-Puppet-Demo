@@ -1,0 +1,4 @@
+[submodule "files/etc/puppet/modules/docker"]
+	path = files/etc/puppet/modules/docker
+	url = https://github.com/CCTJNII/garethr-docker
+	branch = stop-delay
